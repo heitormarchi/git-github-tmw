@@ -1,4 +1,4 @@
-# git-github-tmw
+# Git e GitHub
 Curso do Teo sobre git
 
 Dias 05 e 06 de fevereiro de 2024
